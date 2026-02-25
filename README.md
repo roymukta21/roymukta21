@@ -7,12 +7,12 @@
 <!-- Typing Animation -->
 <p align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3EC7F7&width=480&lines=Welcome+to+my+profile;Frontend+Web+Developer;Building+Modern+%26+Responsive+Web+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3EC7F7&width=480&lines=Welcome+to+my+profile;MERN stack+Web+Developer;Building+Modern+%26+Responsive+Web+Apps" />
 </a>
 </p>
 
 # 👩‍💻 **Mukta Roy**
-### 🌸 Frontend Web Developer  
+### 🌸 MERN stack Web Developer  
 <p>
   Passionate about creating modern, responsive & user-friendly web experiences.
 </p>
@@ -21,9 +21,9 @@
 
 ## ✨ **About Me**
 
-Hi! I'm **Mukta**, a dedicated **Frontend Web Developer** from Bangladesh.  
+Hi! I'm **Mukta**, a dedicated **MERN stack Web Developer** from Bangladesh.  
 I love building clean, modern interfaces using **React + Tailwind CSS**.  
-Currently learning advanced frontend technologies and improving my problem-solving ability every day.
+Currently learning advanced MERN stack technologies and improving my problem-solving ability every day.
 
 ---
 
@@ -38,7 +38,7 @@ Currently learning advanced frontend technologies and improving my problem-solvi
 
 ## 🛠️ **Skills**
 
-### 🎨 Frontend
+### 🎨 MERN stack
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
