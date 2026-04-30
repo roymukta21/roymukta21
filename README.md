@@ -12,7 +12,7 @@
 </p>
 
 # 👩‍💻 **Mukta Roy**
-### 🌸 MERN stack Web Developer  
+### 🌸 Web Developer  
 <p>
   Passionate about creating modern, responsive & user-friendly web experiences.
 </p>
