@@ -21,7 +21,7 @@
 
 ## ✨ **About Me**
 
-Hi! I'm **Mukta**, a dedicated **MERN stack Web Developer** from Bangladesh.  
+Hi! I'm **Mukta**, a dedicated **Web Developer** from Bangladesh.  
 I love building clean, modern interfaces using **React + Tailwind CSS**.  
 Currently learning advanced MERN stack technologies and improving my problem-solving ability every day.
 
