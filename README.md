@@ -77,11 +77,10 @@ Currently learning advanced MERN stack technologies and improving my problem-sol
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roymukta21&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roymukta21&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=roymukta21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 # ⭐ Featured Projects  
