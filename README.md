@@ -1,14 +1,13 @@
 <!-- Banner Image -->
 <p align="center">
-  
-
-<img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/a01ac863-784f-45eb-ad68-fa51b18ab4bb" />
+  <img width="1584" height="396" alt="Banner" src="https://github.com/user-attachments/assets/a01ac863-784f-45eb-ad68-fa51b18ab4bb" />
+</p>
 
 <!-- Typing Animation -->
 <p align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3EC7F7&width=480&lines=Welcome+to+my+profile;MERN stack+Web+Developer;Building+Modern+%26+Responsive+Web+Apps" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3EC7F7&width=480&lines=Welcome+to+my+profile;MERN+Stack+Web+Developer;Building+Modern+Responsive+Web+Apps" alt="Typing SVG" />
+  </a>
 </p>
 
 # 👩‍💻 **Mukta Roy**
